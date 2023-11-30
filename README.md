@@ -11,4 +11,7 @@ This repository contains all the codes for the training of **ED-ConvLSTM** and t
 - all the plot_xxx.ipynb: plotting jupyternotebooks
 - model weights for pressure and saturation are also included (.pth file)
 
-*Note:* the dataset is too large (up to 60GB) to upload.
+*Note:*
+The training/validation/testing dataset has been uploadded to google drive: https://drive.google.com/file/d/1zCInuI41NOmJV_BBICABCiH4pwz7IEs2/view?usp=sharing
+\\
+The extrapolation and generalization dataset is not included.
